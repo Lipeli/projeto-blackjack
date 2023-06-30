@@ -77,7 +77,7 @@ function jogarBlackjack() {
           }
       }
   }
-alert(`Fim de jogo!`)
+alert(`Fim de jogo! Obrigado por jogar e volte sempre!`)
 resposta = false
 }
 
